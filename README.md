@@ -30,7 +30,7 @@ Entrepreneurial mindset | Advanced knowledge of computers | Ability to handle a 
 - 🌱 I'm exploring and learning more about the world around me.
 - 👯 I'm looking to collaborate on meaningful projects. 
 - 💬 Feel free to message me anytime — I’m probably studying.
-- 📫 How to reach me: WelingtonS1lva (Twitter, Linkedin, Instagram).
+- 📫 How to reach me: WelingtonS1lva (Twitter, Linkedin, Passei Direto).
 - ⚡ Fun fact: I closely resemble my profile picture.
 - 💫 Pronouns: He/Him.
 
@@ -43,7 +43,11 @@ Entrepreneurial mindset | Advanced knowledge of computers | Ability to handle a 
   <a href="https://www.linkedin.com/in/welington-s1lva/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40"/>
   </a>
+  <a href="https://x.com/welington_s1lva" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40"/>
+  </a>
   <a href="https://www.passeidireto.com/perfil/857309-welington-s-1-lva/?utm_medium=produto_pop" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/4537/4537020.png" alt="Passei Direto" width="40"/>
   </a>
 </p>
+
